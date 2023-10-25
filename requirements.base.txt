@@ -196,7 +196,7 @@ uc-micro-py==1.0.1
 unicodecsv==0.14.1
 uritemplate==3.0.1
 urllib3==1.26.13
-Werkzeug==2.2.2
+Werkzeug==3.0.1
 wrapt==1.14.1
 WTForms==3.0.1
 yarl==1.8.2
