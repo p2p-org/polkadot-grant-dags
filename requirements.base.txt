@@ -128,7 +128,7 @@ linkify-it-py==2.0.0
 lockfile==0.12.2
 looker-sdk==22.20.0
 Mako==1.2.4
-Markdown==3.4.1
+Markdown==3.8.1
 markdown-it-py==2.1.0
 MarkupSafe==2.1.1
 marshmallow==3.19.0
